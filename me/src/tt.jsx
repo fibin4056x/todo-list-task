@@ -42,8 +42,9 @@ function TodoApp() {
             </button>
         </li>)}
 
-        <button onClick={clear}>clear</button>
+       
       </ol>
+       <button onClick={clear}>clear</button>
     </div>
   );
 }
